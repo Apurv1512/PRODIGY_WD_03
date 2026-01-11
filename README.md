@@ -51,10 +51,9 @@ PRODIGY_WD_03/
 │
 ├── index.html
 ├── style.css
-├── script.js
-└── README.md
+└── script.js
 
-yaml
+
 Copy code
 
 ---
